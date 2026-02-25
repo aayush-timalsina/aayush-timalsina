@@ -20,6 +20,34 @@
 
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7F4,100:FF00FF&height=3&section=header" width="100%"/>
+</div>
+
+<div align="center">
+
+### 🛰️ SYSTEM STATUS
+
+![Signal](https://img.shields.io/badge/SIGNAL-STRONG-00F7F4?style=for-the-badge&logo=signal&logoColor=white)
+![Firewall](https://img.shields.io/badge/FIREWALL-ACTIVE-FF00FF?style=for-the-badge&logo=fortinet&logoColor=white)
+![Threats](https://img.shields.io/badge/THREATS-TRACKING-FF6B6B?style=for-the-badge&logo=virustotal&logoColor=white)
+![Ops](https://img.shields.io/badge/OPS-ONLINE-00F7F4?style=for-the-badge&logo=linux&logoColor=white)
+
+</div>
+
+<details open>
+<summary><b>🧠 MISSION CONSOLE (live feed)</b></summary>
+<br>
+
+```text
+> Booting TYPE-C core...
+> Loading threat maps...
+> Compiling recon modules...
+> Status: READY
+```
+
+</details>
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 # 💫 About Me:
@@ -33,6 +61,23 @@
 ⚡ **Fun fact:** I hack things legally!  
 
 <br clear="right"/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00F7F4&height=3&section=header" width="100%"/>
+</div>
+
+## 🧩 Skill Matrix (Neon Core):
+
+<div align="center">
+
+| Core | Modules | Status |
+|------|---------|--------|
+| **Offense** | Web Pentesting, Recon, Exploit Research | 🟢 ONLINE |
+| **Defense** | IDS/IPS, Threat Monitoring, Log Analysis | 🟢 ONLINE |
+| **Automation** | Python, Bash, Workflow Scripting | 🟢 ONLINE |
+| **Network** | Scanning, Traffic Analysis, Hardening | 🟢 ONLINE |
+
+</div>
 
 ## 🛡️ Cybersecurity Arsenal:
 
