@@ -1,52 +1,35 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18,24&height=150&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:14B8A6&height=150&section=header" width="100%"/>
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=2000&pause=1000&color=00F7F4&center=true&vCenter=true&repeat=true&width=700&height=100&lines=AAYUSH+TIMALSINA)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=45&duration=1500&pause=500&color=FF00FF&background=FF000000&center=true&vCenter=true&repeat=true&width=300&height=80&lines=TYPE-C;%E2%9A%A1+TYPE-C+%E2%9A%A1;%F0%9F%94%A5+TYPE-C+%F0%9F%94%A5" alt="TYPE-C" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=56&duration=2200&pause=1000&color=14B8A6&center=true&vCenter=true&repeat=true&width=700&height=100&lines=Aayush+Timalsina)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Penetration+Tester+%F0%9F%94%93;Threat+Hunter+%F0%9F%95%B5%EF%B8%8F;Bug+Bounty+Hunter+%F0%9F%90%9B;Automation+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=600&size=36&duration=1800&pause=700&color=9FE7E0&center=true&vCenter=true&repeat=true&width=320&height=70&lines=TYPE-C;TYPE-C+STUDIO" alt="TYPE-C" />
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7F4,100:FF00FF&height=3&section=header" width="100%"/>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8FE3DA&center=true&vCenter=true&width=640&lines=Cybersecurity+Student;Penetration+Testing+%26+Threat+Analysis;Automation+%7C+Scripting+%7C+Networks)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:14B8A6&height=2&section=header" width="100%"/>
 </div>
 
 <div align="center">
 
-### 🛰️ SYSTEM STATUS
-
-![Signal](https://img.shields.io/badge/SIGNAL-STRONG-00F7F4?style=for-the-badge&logo=signal&logoColor=white)
-![Firewall](https://img.shields.io/badge/FIREWALL-ACTIVE-FF00FF?style=for-the-badge&logo=fortinet&logoColor=white)
-![Threats](https://img.shields.io/badge/THREATS-TRACKING-FF6B6B?style=for-the-badge&logo=virustotal&logoColor=white)
-![Ops](https://img.shields.io/badge/OPS-ONLINE-00F7F4?style=for-the-badge&logo=linux&logoColor=white)
+### ✦ Aura Mode
+Quiet, focused, and precise. I build security systems that feel calm on the surface and sharp underneath.
 
 </div>
-
-<details open>
-<summary><b>🧠 MISSION CONSOLE (live feed)</b></summary>
-<br>
-
-```text
-> Booting TYPE-C core...
-> Loading threat maps...
-> Compiling recon modules...
-> Status: READY
-```
-
-</details>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
@@ -63,19 +46,19 @@
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00F7F4&height=3&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,100:0F172A&height=2&section=header" width="100%"/>
 </div>
 
-## 🧩 Skill Matrix (Neon Core):
+## ✨ Signature Focus:
 
 <div align="center">
 
-| Core | Modules | Status |
-|------|---------|--------|
-| **Offense** | Web Pentesting, Recon, Exploit Research | 🟢 ONLINE |
-| **Defense** | IDS/IPS, Threat Monitoring, Log Analysis | 🟢 ONLINE |
-| **Automation** | Python, Bash, Workflow Scripting | 🟢 ONLINE |
-| **Network** | Scanning, Traffic Analysis, Hardening | 🟢 ONLINE |
+| Focus | What I Do |
+|------|-----------|
+| **Offense** | Web pentesting, recon, exploit research |
+| **Defense** | Threat monitoring, IDS/IPS, log analysis |
+| **Automation** | Python + Bash tooling, workflow scripting |
+| **Networks** | Scanning, traffic analysis, hardening |
 
 </div>
 
