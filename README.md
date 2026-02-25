@@ -10,7 +10,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=600&size=36&duration=1800&pause=700&color=9FE7E0&center=true&vCenter=true&repeat=true&width=320&height=70&lines=TYPE-C;TYPE-C+STUDIO" alt="TYPE-C" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=600&size=36&duration=1800&pause=700&color=9FE7E0&center=true&vCenter=true&repeat=true&width=320&height=70&lines=TYPE-C" alt="TYPE-C" />
 
 </div>
 
