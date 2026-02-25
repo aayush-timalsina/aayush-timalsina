@@ -1,10 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18,24&height=200&section=header&text=Aayush%20Timalsina&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Cybersecurity%20Enthusiast%20%7C%20Penetration%20Tester%20%7C%20Threat%20Hunter&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18,24&height=150&section=header" width="100%"/>
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Penetration+Tester+%F0%9F%94%93;Threat+Hunter+%F0%9F%95%B5%EF%B8%8F;Bug+Bounty+Hunter+%F0%9F%90%9B;Automation+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=2000&pause=1000&color=00F7F4&center=true&vCenter=true&repeat=true&width=700&height=100&lines=AAYUSH+TIMALSINA)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=45&duration=1500&pause=500&color=FF00FF&background=FF000000&center=true&vCenter=true&repeat=true&width=300&height=80&lines=TYPE-C;%E2%9A%A1+TYPE-C+%E2%9A%A1;%F0%9F%94%A5+TYPE-C+%F0%9F%94%A5" alt="TYPE-C" />
+
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Penetration+Tester+%F0%9F%94%93;Threat+Hunter+%F0%9F%95%B5%EF%B8%8F;Bug+Bounty+Hunter+%F0%9F%90%9B;Automation+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
